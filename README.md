@@ -81,24 +81,15 @@ O projeto foi desenvolvido com foco em acessibilidade, automação e segurança.
 | IN4 | 4 |
 | GND | GND |
 
-```
-
-
----
-
 ## 📷 Imagens
 
-### Protótipo
+### FLUXOGRAMA
 
-![Protótipo](imagens/projeto.jpg)
+![Protótipo](imagem_2026-06-18_111420376.png)
 
 ### Montagem
 
-![Montagem](imagens/montagem.jpg)
-
-### Funcionamento
-
-![Funcionamento](imagens/porta-aberta.jpg)
+![Montagem](Screenshot_6.jpg)
 
 ---
 
